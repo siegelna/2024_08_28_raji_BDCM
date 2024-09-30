@@ -1,5 +1,7 @@
-Gene,BDCM Counts (tpm),JURKAT Counts (tpm),RAJI Counts (tpm)
-CD274 (PD1L),32.45,1.44,0.67
-CD3G (CD3),0,95.19,0.05
-PDCD1 (PD1),2.12,1.03,0
-PDCD1LG2 (PD2L),9.88,0.02,0.15
+"BDCM Counts (tpm)","JURKAT Counts (tpm)","RAJI Counts (tpm)"
+"CD19",82.26,0.82,136.56
+"CD274",32.45,1.44,0.67
+"CD3G",0,95.19,0.05
+"MS4A1",983.18,0.06,289.31
+"PDCD1",2.12,1.03,0
+"PDCD1LG2",9.88,0.02,0.15
